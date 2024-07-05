@@ -1,3 +1,3 @@
-# NeetCode Roadway
+# NeetCode Roadmap
 
-A repo with hints and solutions for NeetCode's roadmap
+NeetCode's roadmap hints and solutions
